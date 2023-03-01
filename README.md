@@ -1,6 +1,14 @@
-# Crypto Prediction Set
+# ASL Identification
 
-A Set of Models to predict the trajectories of multiple digital currencies.
+A Set of Models to identify the American Sign Language Alphabet inside of images.
+
+## Overivew
+
+American Sign Language, as well as the variations of signing around the world, are an important device of communication for those hard of hearing
+and hard of speaking.  The use of AI to auto translate sign language to text would increase the quality of life for those who find it difficult to 
+get others to understand them.
+
+This is a small study using only the alphabet found in ASL to demonstrate the potential for Convolutional Neural Networks to translate ASL to English.
 
 ## Use and Install
 
