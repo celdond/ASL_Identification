@@ -2,7 +2,7 @@
 
 A Set of Models to identify the American Sign Language Alphabet inside of images.
 
-## Overivew
+## Overview
 
 American Sign Language, as well as the variations of signing around the world, are an important device of communication for those hard of hearing
 and hard of speaking.  The use of AI to auto translate sign language to text would increase the quality of life for those who find it difficult to 
